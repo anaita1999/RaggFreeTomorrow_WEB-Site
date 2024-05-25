@@ -1,3 +1,4 @@
+### RaggFreeTomorrow_WEB-Site ###
 In the pursuit of knowledge and personal growth, every individual deserves a safe and nurturing environment. Unfortunately, the practice of ragging has tainted the educational landscape, causing emotional distress and physical harm. to countless students. Our project stands as a formidable response to this pressing issue – a resolute step towards fostering campuses that are free from fear, coercion, and humiliation. Our web application is not just a tool; it's a movement towards fostering a culture of respect, empathy, and collaboration within educational institutions. Designed with the well-being of students in mind, Ragging Free Tomorrow is your one-stop solution to eradicate ragging and its adverse effects on mental, emotional, and physical health.
 
 ## User Authentication and Authorization:*
